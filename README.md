@@ -21,3 +21,5 @@ Tugas pemograman web 1 pertemuan 7
       </ul>
     </nav>
   </header>
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bab206d9-8580-4378-bc10-6642132351fc" />
+
